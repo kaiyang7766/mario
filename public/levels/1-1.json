@@ -277,60 +277,6 @@
 					3,1
 				]
 			]
-		},
-		{
-			"pattern":"message1",
-			"ranges":[
-				[
-					2,12
-				]
-			]
-		},
-		{
-			"pattern":"message2",
-			"ranges":[
-				[
-					20,7
-				]
-			]
-		},
-		{
-			"pattern":"message3",
-			"ranges":[
-				[
-					23,8
-				]
-			]
-		},
-		{
-			"pattern":"message5",
-			"ranges":[
-				[105,11]
-			]
-		},
-		{
-			"pattern":"message6",
-			"ranges":[
-				[145,10]
-			]
-		},
-		{
-			"pattern":"message7",
-			"ranges":[
-				[150,11]
-			]
-		},
-		{
-			"pattern":"message8",
-			"ranges":[
-				[139,15]
-			]
-		},
-		{
-			"pattern":"Buzz",
-			"ranges":[
-				[140,16]
-			]
 		}
 	]
 		}
